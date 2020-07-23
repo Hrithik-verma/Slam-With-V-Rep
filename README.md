@@ -1,4 +1,4 @@
-# Slam-With-V-Rep|Without Using Ros|
+# Slam-With-V-Rep|Without Using Ros
 ![](picture/gridmap.PNG)
 
 
